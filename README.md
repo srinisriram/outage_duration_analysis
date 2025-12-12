@@ -335,7 +335,7 @@ Finally, here is the performance of our final model on the same train-test split
 
 ```angular2html
 R^2 train = 0.6443186555622549
-R^2 train = 0.3301826691266052
+R^2 test = 0.3301826691266052
 RMSE on train = 53.2902548487401
 RMSE on test = 106.88255734728345
 ```
